@@ -1,0 +1,4 @@
+interface:
+  display_name: "组合优化论文写作"
+  short_description: "按课题组论文范式提炼算法创新并撰写高质量运筹优化论文"
+  default_prompt: "Use $write-combinatorial-optimization-paper to turn my solver code and evidence into an OR-style paper method and contribution narrative."
